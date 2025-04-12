@@ -1,6 +1,6 @@
 {
   "name": "building-trains-requests-fuel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "Building Trains Requests Fuel",
   "description": "Placing a train requests it to be filled with fuel. Trains that request fuel will wait to automatically move until the requests are filled.",
   "author": "protocol_1903",
