@@ -1,0 +1,10 @@
+{
+  "name": "building-trains-requests-fuel",
+  "version": "1.0.0",
+  "title": "Building Trains Requests Fuel",
+  "description": "Placing a train requests it to be filled with fuel. Trains that request fuel will wait to automatically move until the requests are filled.",
+  "author": "protocol_1903",
+  "homepage": "https://discord.gg/K3fXMGVc4z",
+  "factorio_version": "2.0",
+  "dependencies": ["base"]
+}
