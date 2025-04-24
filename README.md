@@ -9,4 +9,6 @@ Placing a train requests it to be filled with fuel. Trains that request fuel wil
 - Number of stacks to request (set to 0 to disable mod)
 - Override preexisting fuel requests from blueprints or other mods
 
+Thumbnail and requested by JigSaW on Discord.
+
 If you have a mod idea, let me know and I can look into it.
